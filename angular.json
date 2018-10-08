@@ -110,5 +110,5 @@
       }
     }
   },
-  "defaultProject": "dist/ng6"
+  "defaultProject": "ng6"
 }
